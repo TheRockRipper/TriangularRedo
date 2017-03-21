@@ -1,0 +1,70 @@
+Themes:
+
+- Plain White / Greyscale
+
+- Foresty; Fireboy & Watergirl
+
+- Pencil Sketches in a notebook
+
+- Crystal Palace
+
+- Research Facility
+
+
+What the player should experience:
+
+- Challenge; the player should learn from trying to overcome the challenge
+
+- Surprise; visually and through mechanics
+
+- Curiosity
+
+
+
+Objectives:
+
+1. Fit the triangle into a slot(finish point)
+
+Interactable:
+
+	Environment: 1. Buttons(Maybe)
+
+		     2. Sticky Platforms
+
+	UI: 1. Angles reset button
+
+	    2. Level reset button
+
+
+The character will start as an equilateral triangle.
+
+
+Mechanics:
+
+1. The sum of all angles in a triangle is 180 degrees; The shape of the triangle can be varied by changing the angles.
+
+2. Moving; the triangle will move by rotating and falling on its consecutive faces.
+
+3. Shifting; slowly moving without rotating.
+
+4. Shaping; changing the shape of the triangle using the mouse.
+
+5. Stretchability limit; in order to ensure that the triangle isn't stretched too much, the sum of all sides will be constant.
+
+6. Side preference; the side on which the triangle rests cannot be edited,i.e. only the vertex in the air can be moved
+
+7. Hanging by vertices on particular surfaces.
+
+
+Obstacles:
+
+- Pits
+
+- Vertical surfaces / Walls
+
+- Moving platforms
+
+- Air drafts / Vertical or Horizontal Force Fields
+
+- 
+http://devmag.org.za/2011/07/04/how-to-design-levels-for-a-platformer/
